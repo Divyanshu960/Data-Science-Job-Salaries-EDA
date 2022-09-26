@@ -12,5 +12,5 @@ In this project, I will examine a dataset on the pay for several data science pr
 
 !pip install opendatasets --upgrade --quiet,
 !pip install matplotlib --upgrade
-# Dataset Used
+# Dataset
  https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries

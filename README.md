@@ -3,11 +3,14 @@ In this project, I will examine a dataset on the pay for several data science pr
 
 # Libraries
  
- Matplotlib
- Numpy
- Pandas
- Country Convertor
- Scikit
- Seaborn
+ Matplotlib,
+ Numpy,
+ Pandas,
+ Country Convertor,
+ Scikit,
+ Seaborn,
+
+!pip install opendatasets --upgrade --quiet,
+!pip install matplotlib --upgrade
 # Dataset Used
  https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries

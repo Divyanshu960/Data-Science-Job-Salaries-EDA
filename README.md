@@ -6,7 +6,7 @@ In this project, I will examine a dataset on the pay for several data science pr
  Matplotlib,
  Numpy,
  Pandas,
- Country Convertor,
+ Country_converter,
  Scikit,
  Seaborn,
 
